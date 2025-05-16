@@ -3,8 +3,8 @@
 
 Welcome to the History Flashcard Quiz App, a native Android application built using Kotlin in Android Studio. This app provides an engaging and educational experience for students who want to review history topics through a fun and fast-paced flashcard quiz — perfect for learning on the go. 
 
-Youtbe link: 
-
+Youtbe link: [
+](https://youtube.com/shorts/Mcp-7GgDKz4)
  
 
 🎯 Objective 
