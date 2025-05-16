@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">AssignmentNo.2</string>
+    <string name="view">View</string>
+    <string name="exit">Exit</string>
+    <string name="review">Review</string>
+    <string name="result">Result</string>
+</resources>
